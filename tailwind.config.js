@@ -8,8 +8,8 @@ module.exports = {
     extend: {
       animation: {
         "pulse-slow": "pulse-slow 2s cubic-bezier(0.4, 0, 0.6, 1) infinite",
-        marquee: "marquee 30s linear infinite",
-        marquee2: "marquee2 30s linear infinite",
+        marquee: "marquee 10s linear infinite",
+        marquee2: "marquee2 10s linear infinite",
       },
       keyframes: {
         "pulse-slow": {
